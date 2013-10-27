@@ -16,3 +16,6 @@
 [submodule "src/xstyle"]
 	path = src/xstyle
 	url = https://github.com/kriszyp/xstyle.git
+[submodule "src/dgrid"]
+	path = src/dgrid
+	url = https://github.com/SitePen/dgrid.git
