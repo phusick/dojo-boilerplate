@@ -10,3 +10,6 @@
 [submodule "src/util"]
 	path = src/util
 	url = https://github.com/dojo/util.git
+[submodule "src/put-selector"]
+	path = src/put-selector
+	url = https://github.com/kriszyp/put-selector.git
